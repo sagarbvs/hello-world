@@ -11,6 +11,7 @@ namespace HelloWorldConsole
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld Console app - GitHub");
+            Console.WriteLine("Test run for new branch creation and commit - GitHub");
             Console.ReadLine();
         }
     }
